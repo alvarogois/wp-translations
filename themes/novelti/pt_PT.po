@@ -1,0 +1,752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Novelti\n"
+"POT-Creation-Date: 2014-02-18 10:56-0000\n"
+"PO-Revision-Date: 2014-02-21 00:03-0000\n"
+"Last-Translator: Alvaro Gois dos Santos <alvarogois@ovni.org>\n"
+"Language-Team: Alvaro Gois dos Santos <alvarogois@ovni.org>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "404 - Error"
+msgstr "Erro 404!"
+
+#: 404.php:22
+msgid ""
+"Looks like the page you were looking for does not exist. Sorry about that."
+msgstr "Lamentamos mas o conteúdo que procurava não está disponível."
+
+#: 404.php:23
+msgid "Check the web address for typos, or go to"
+msgstr "Por favor, certifique-se de que tem o endereço correcto ou consulte"
+
+#: 404.php:23
+msgid "HOME PAGE"
+msgstr "PÁGINA INICIAL"
+
+#: _archive_template.php:54
+msgid "Last 30 Posts:"
+msgstr "Últimos 30 artigos:"
+
+#: _archive_template.php:77
+msgid "Archives by Month:"
+msgstr "Arquivos mensais:"
+
+#: _archive_template.php:90
+msgid "Archives by Subject:"
+msgstr "Arquivos por temas:"
+
+#: _blog_one_column.php:105 _part_one_cat_side.php:83 _part_one_cat_top.php:80
+#: _part_one_column_loop.php:56 _part_sticky_post.php:76
+#: _part_two_col_side_one_cat.php:60 _part_two_col_side_two_cat.php:68
+#: _part_two_col_side_two_cat.php:147 _part_two_col_top_one_cat.php:84
+#: _part_two_col_top_two_cat.php:95 _part_two_col_top_two_cat.php:203
+#: _part_two_column_loop.php:55
+msgid "by "
+msgstr "por"
+
+#: _blog_one_column.php:107 _part_one_cat_side.php:85 _part_one_cat_top.php:82
+#: _part_one_column_loop.php:58 _part_sticky_post.php:78
+#: _part_two_col_side_one_cat.php:62 _part_two_col_side_two_cat.php:70
+#: _part_two_col_side_two_cat.php:149 _part_two_col_top_one_cat.php:86
+#: _part_two_col_top_two_cat.php:97 _part_two_col_top_two_cat.php:205
+#: _part_two_column_loop.php:57
+msgid " comments"
+msgstr " comentários"
+
+#: _blog_one_column.php:117 _part_one_cat_side.php:91 _part_one_cat_top.php:88
+#: _part_one_column_loop.php:68 _part_sticky_post.php:88
+#: _part_two_col_top_one_cat.php:92 _part_two_col_top_two_cat.php:103
+#: _part_two_col_top_two_cat.php:211 _part_two_column_loop.php:67
+msgid "Read More"
+msgstr "Ler mais"
+
+#: _contact.php:221
+msgid "Say Hello"
+msgstr "Diga Olá!"
+
+#: _contact.php:222
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"O seu email não será publicado. Os campos obrigatórios estáo assinalados com "
+"*"
+
+#: _contact.php:225
+msgid "Name*"
+msgstr "Nome*"
+
+#: _contact.php:226
+msgid "Email*"
+msgstr "Email*"
+
+#: _contact.php:227
+msgid "Website"
+msgstr "Website"
+
+#: _contact.php:238
+msgid " Cant read? Refresh Image: "
+msgstr " Está ilegível? Refresque a imagem: "
+
+#: _contact.php:245
+msgid "Send Message"
+msgstr "Enviar"
+
+#: _part_carousel_slider.php:6 _part_one_cat_side.php:10
+#: _part_one_cat_top.php:9 _part_two_col_side_one_cat.php:13
+#: _part_two_col_side_two_cat.php:10 _part_two_col_side_two_cat.php:89
+#: _part_two_col_top_one_cat.php:10 _part_two_col_top_two_cat.php:11
+#: _part_two_col_top_two_cat.php:118 inc/meta-boxes.php:303
+#: inc/theme-settings.php:886 inc/theme-settings.php:1106
+#: inc/theme-settings.php:1279 inc/theme-settings.php:1489
+#: inc/theme-settings.php:1533 inc/theme-settings.php:1577
+#: inc/theme-settings.php:1622 inc/theme-settings.php:1651
+#: inc/theme-settings.php:1697 inc/theme-settings.php:1742
+#: inc/theme-settings.php:1771
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+#: _part_main_slider.php:68 comments.php:36
+msgid "Comments"
+msgstr "Comentários"
+
+#: _part_main_slider.php:132
+msgid "Followers / Fans / Subscribers"
+msgstr "Aderentes/fãs/subscritores"
+
+#: _part_main_slider.php:135 single.php:319
+msgid "Twitter"
+msgstr "Twitter"
+
+#: _part_main_slider.php:139 single.php:308
+msgid "Facebook"
+msgstr "Facebook"
+
+#: _part_main_slider.php:143 single.php:330
+msgid "Google+"
+msgstr "Google+"
+
+#: _part_rating_box.php:16 _part_rating_box.php:32
+#: _part_two_col_side_two_cat.php:57 _part_two_col_side_two_cat.php:136
+#: _part_two_col_top_two_cat.php:84 _part_two_col_top_two_cat.php:192
+msgid "rating "
+msgstr "avaliação"
+
+#: _part_sticky_post.php:72
+msgid "Featured Post"
+msgstr "Em destaque"
+
+#: comments.php:17
+msgid "- Your comment is awaiting moderation."
+msgstr "- O seu comentário aguarda moderação."
+
+#: comments.php:17
+msgid " - Edit - "
+msgstr " - Editar - "
+
+#: comments.php:34
+msgid "No comments so far!"
+msgstr "Ainda sem comentários."
+
+#: comments.php:46
+msgid "You must be"
+msgstr "Tem de estar"
+
+#: comments.php:46
+msgid "logged in"
+msgstr "registado(a)"
+
+#: comments.php:46
+msgid "to post a comment."
+msgstr "para comentar."
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr "Responder"
+
+#: comments.php:54
+msgid "Leave a Comment"
+msgstr "Comentar"
+
+#: comments.php:61
+msgid "Name (required)"
+msgstr "Nome (obrigatório)"
+
+#: comments.php:62
+msgid "E-mail (required)"
+msgstr "Email (obrigatório)"
+
+#: comments.php:66
+msgid "Message"
+msgstr "Mensagem"
+
+#: comments.php:70
+msgid "Post Comment"
+msgstr "Publicar"
+
+#: comments.php:83
+msgid "Comments are closed"
+msgstr "Comentários fechados"
+
+#: functions.php:102
+msgid "Primary Menu"
+msgstr "Menu de topo"
+
+#: functions.php:103
+msgid "Category Menu"
+msgstr "Menu de categorias"
+
+#: functions.php:104
+msgid "Footer Menu"
+msgstr "Menu de rodapé"
+
+#: functions.php:160
+msgid "Select Sidebar"
+msgstr "Escolher barra lateral"
+
+#: functions.php:181
+msgid "Select sidebar for this category."
+msgstr "Escolher barra lateral para esta categoría."
+
+#: functions.php:202
+msgid "Category Color"
+msgstr "Cor da categoria"
+
+#: functions.php:209
+msgid "Select color for this category."
+msgstr "Escolher a cor para esta categoría."
+
+#: functions.php:213
+msgid "Category Display"
+msgstr "Layout da categoria"
+
+#: functions.php:220
+msgid "One Column"
+msgstr "Uma coluna"
+
+#: functions.php:225
+msgid "Two Columns"
+msgstr "Duas colunas"
+
+#: functions.php:228
+msgid "Select how to display this category."
+msgstr "Escolher o o número de colunas para esta categoría."
+
+#: functions.php:877 single.php:192 single.php:229
+msgid "User Rating: "
+msgstr "Avaliação:"
+
+#: functions.php:877 single.php:192 single.php:229
+msgid " votes)"
+msgstr " votos)"
+
+#: header.php:23
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: header.php:177
+msgid "Navigation"
+msgstr "Navegação"
+
+#: search.php:32
+msgid "No posts found. Try a different search?"
+msgstr "Não há conteúdos. Tentar outra pesquisa?"
+
+#: single.php:115
+msgid "By:"
+msgstr "Por:"
+
+#: single.php:117
+msgid " Comments"
+msgstr " comentários"
+
+#: single.php:298
+msgid "Shares"
+msgstr "Partilhas"
+
+#: single.php:341
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: single.php:353
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: single.php:364
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: single.php:449
+msgid "Related Posts"
+msgstr "Artigos relacionados"
+
+#: inc/meta-boxes.php:9 inc/meta-boxes.php:15
+msgid "Advertisement Link"
+msgstr "Link da publicidade"
+
+#: inc/meta-boxes.php:23
+msgid "Custom Banner Code"
+msgstr "Código personalizado para banner"
+
+#: inc/meta-boxes.php:37 inc/post-types.php:11 inc/post-types.php:12
+#: inc/post-types.php:23
+msgid "Advertisement"
+msgstr "Publicidade"
+
+#: inc/meta-boxes.php:43
+msgid "Banner Stats"
+msgstr "Estatísticas de publicidade"
+
+#: inc/meta-boxes.php:54 inc/meta-boxes.php:60
+msgid "VIdeo Link"
+msgstr "Link de vídeo"
+
+#: inc/meta-boxes.php:71
+msgid "Slider Fields"
+msgstr "Campos do slider"
+
+#: inc/meta-boxes.php:87
+msgid "Page Settings"
+msgstr "Opções de página"
+
+#: inc/meta-boxes.php:93 inc/meta-boxes.php:177
+msgid "Select sidebar"
+msgstr "Escolher barra lateral"
+
+#: inc/meta-boxes.php:101
+msgid "Page Subheadline"
+msgstr "Subtítulo da página"
+
+#: inc/meta-boxes.php:115
+msgid "Rating"
+msgstr "Avaliação"
+
+#: inc/meta-boxes.php:121
+msgid "Enable post Rating"
+msgstr "Activar avaliação do artigo"
+
+#: inc/meta-boxes.php:122
+msgid "Check this if you want to enable rating system on this post. "
+msgstr "Activar esta opção se pretender que o artigo possa ser avaliado. "
+
+#: inc/meta-boxes.php:128
+msgid "Rating Position"
+msgstr "Localização da avaliação"
+
+#: inc/meta-boxes.php:129
+msgid "Chose position of your rating system."
+msgstr "Escolher a localização do sistema de avaliação."
+
+#: inc/meta-boxes.php:135
+msgid "Rating type"
+msgstr "Tipo de avaliação"
+
+#: inc/meta-boxes.php:136
+msgid "Chose visual apperance of rating sysyem."
+msgstr "Escolher a aparência do sistema de avaliação."
+
+#: inc/meta-boxes.php:142
+msgid "Post Rating"
+msgstr "Avaliação do artigo"
+
+#: inc/meta-boxes.php:149
+#, fuzzy
+msgid "Total Score Label"
+msgstr "Rótulo do valor total"
+
+#: inc/meta-boxes.php:160
+msgid "Enable Reader Post Rating"
+msgstr "Activar avaliação por leitores"
+
+#: inc/meta-boxes.php:161
+msgid "Check this if you want to enable users/readers to rate this post. "
+msgstr ""
+"Escolher esta opção para activar avaliação do artigo por leitores e "
+"utilizadores."
+
+#: inc/meta-boxes.php:171
+msgid "Sidebar Settings"
+msgstr "Opções da barra lateral"
+
+#: inc/meta-boxes.php:456 inc/meta-boxes.php:468
+msgid "Rating Criteria: "
+msgstr "Critérios de avaliação:"
+
+#: inc/meta-boxes.php:462 inc/meta-boxes.php:472
+msgid "Title of this criteria"
+msgstr "Título deste critério"
+
+#: inc/meta-boxes.php:462 inc/meta-boxes.php:472
+msgid "Rate this criteria from 0 to 20"
+msgstr "Avaliar critério de 0 a 20"
+
+#: inc/post-types.php:13 inc/post-types.php:54 inc/post-types.php:97
+msgid "Add New"
+msgstr "Novo"
+
+#: inc/post-types.php:14
+msgid "Add New Ad"
+msgstr "Novo anúncio"
+
+#: inc/post-types.php:15
+msgid "Edit Ad"
+msgstr "Editar anúncio"
+
+#: inc/post-types.php:16
+msgid "New Ad"
+msgstr "Novo anúncio"
+
+#: inc/post-types.php:17
+msgid "All Ads"
+msgstr "Todos os anúncios"
+
+#: inc/post-types.php:18
+msgid "View this Ad"
+msgstr "Ver este anúncio"
+
+#: inc/post-types.php:19
+msgid "Search Ads"
+msgstr "Procurar anúncios"
+
+#: inc/post-types.php:20
+msgid "No Ads"
+msgstr "Sem anúncios"
+
+#: inc/post-types.php:21
+msgid "No Ads in Trash"
+msgstr "Nenhum anúncio no lixo"
+
+#: inc/post-types.php:52 inc/post-types.php:53 inc/post-types.php:64
+msgid "Sidebars"
+msgstr "Barras laterais"
+
+#: inc/post-types.php:55
+msgid "Add New Sidebar"
+msgstr "Nova barra lateral"
+
+#: inc/post-types.php:56
+msgid "Edit Sidebar"
+msgstr "Editar barra lateral"
+
+#: inc/post-types.php:57
+msgid "New Sidebar"
+msgstr "Nova barra lateral"
+
+#: inc/post-types.php:58
+msgid "All Sidebars"
+msgstr "Todas as barras"
+
+#: inc/post-types.php:59
+msgid "View this Sidebar"
+msgstr "Ver esta barra"
+
+#: inc/post-types.php:60
+msgid "Search Sidebars"
+msgstr "Procurar barras"
+
+#: inc/post-types.php:61
+msgid "No Widget"
+msgstr "Nenhum widget"
+
+#: inc/post-types.php:62
+msgid "No Sidebars in Trash"
+msgstr "Nenhuma barra no lixo"
+
+#: inc/post-types.php:95 inc/post-types.php:96 inc/post-types.php:107
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: inc/post-types.php:98
+msgid "Add New Page Builder"
+msgstr "Novo Page Builder"
+
+#: inc/post-types.php:99
+msgid "Edit Page Builder"
+msgstr "Editar Page Builder"
+
+#: inc/post-types.php:100
+msgid "New Page Builder"
+msgstr "Novo Page Builder"
+
+#: inc/post-types.php:101
+msgid "All Page Builder"
+msgstr "Todos os Page Builder"
+
+#: inc/post-types.php:102
+msgid "View this Page Builder"
+msgstr "Ver este Page Builder"
+
+#: inc/post-types.php:103
+msgid "Search Page Builder"
+msgstr "Procurar Page Builder"
+
+#: inc/post-types.php:104
+msgid "No Page Builder"
+msgstr "Nenhum Page Builder"
+
+#: inc/post-types.php:105
+msgid "No Page Builder in Trash"
+msgstr "Nenhum Page Builder no lixo"
+
+#: inc/theme-settings.php:984
+msgid ""
+"Page builder allows you to create unique homepage in just few clicks. </"
+"br>Simply add and drag-and-drop elements on desired position."
+msgstr ""
+"O Page Builder crier uma página initial única em apneas alguns cliques. </"
+"br>Adicione elementos de forma simples e mova-os por drag-and-drop para a "
+"posição desejada."
+
+#: inc/theme-settings.php:1103
+msgid "Please select Category for Flex Slider"
+msgstr "Por favor escolha a categoria para o Flex Slider"
+
+#: inc/theme-settings.php:1123
+msgid "Enter Number of Post to show in Flex Slider"
+msgstr "Defina o número de artigos visíveis no Flex Slider"
+
+#: inc/theme-settings.php:1135
+msgid "Slider pause time"
+msgstr "Tempo de pausa do slider"
+
+#: inc/theme-settings.php:1147 inc/theme-settings.php:1306
+msgid "Slider animation time"
+msgstr "Tempo de animação do slider"
+
+#: inc/theme-settings.php:1156 inc/theme-settings.php:1314
+msgid "Chose slider easing effect"
+msgstr "Defina o efeito de easing do slider"
+
+#: inc/theme-settings.php:1241
+msgid "Chose Flex Slider Effect"
+msgstr "Defina o efeito do Flex Slider"
+
+#: inc/theme-settings.php:1276
+msgid "Please select Category for Carousel Slider"
+msgstr "Por favor defina a categoria do Carousel Slider"
+
+#: inc/theme-settings.php:1295
+msgid "Enter Number of Post to show in Carousel Slider"
+msgstr "Defina o número de artigos visíveis no Carousel Slider"
+
+#: inc/theme-settings.php:1415
+msgid "Please select Ad"
+msgstr "Por favor escolha um anúncio"
+
+#: inc/theme-settings.php:1455
+msgid "Select from which page to show content"
+msgstr "Defina de que página pretende mostrar conteúdo "
+
+#: inc/theme-settings.php:1486 inc/theme-settings.php:1530
+#: inc/theme-settings.php:1574 inc/theme-settings.php:1619
+#: inc/theme-settings.php:1648 inc/theme-settings.php:1694
+#: inc/theme-settings.php:1739 inc/theme-settings.php:1768
+msgid "Select Category"
+msgstr "Defina a categoria"
+
+#: inc/theme-settings.php:1505 inc/theme-settings.php:1549
+#: inc/theme-settings.php:1593 inc/theme-settings.php:1638
+#: inc/theme-settings.php:1667 inc/theme-settings.php:1713
+#: inc/theme-settings.php:1758 inc/theme-settings.php:1787
+msgid "Enter Number of Post to show"
+msgstr "Defina o número de artigos visíveis"
+
+#: inc/shortcodes/popup.php:24
+msgid "Insert Shortcode"
+msgstr "Inserir shortcode"
+
+#: inc/shortcodes/settings.php:13
+msgid "Button URL"
+msgstr "URL do botão"
+
+#: inc/shortcodes/settings.php:14
+msgid "Add the button's url eg http://example.com"
+msgstr "Adicione o URL do botão, p.e., http://exemplo.com"
+
+#: inc/shortcodes/settings.php:21
+msgid "Button's Style"
+msgstr "Estilo do botão"
+
+#: inc/shortcodes/settings.php:22
+msgid "Select the button's style, ie the buttons colour"
+msgstr "Defina o estilo (i.e., a cor) do botão"
+
+#: inc/shortcodes/settings.php:36
+msgid "Button's Text"
+msgstr "Texto do botão"
+
+#: inc/shortcodes/settings.php:37
+msgid "Add the button's text"
+msgstr "Defina o texto visível no botão"
+
+#: inc/shortcodes/settings.php:51
+msgid "Type of list"
+msgstr "Tipo de lista"
+
+#: inc/shortcodes/settings.php:52
+msgid "Select the list type"
+msgstr "Defina o tipo de lista"
+
+#: inc/shortcodes/settings.php:64
+msgid "List Text"
+msgstr "Texto da lista"
+
+#: inc/shortcodes/settings.php:65
+msgid "Add the list text"
+msgstr "Adicione o texto da lista"
+
+#: inc/shortcodes/settings.php:80
+msgid "Column Type"
+msgstr "Tipo de coluna"
+
+#: inc/shortcodes/settings.php:81
+msgid "Select the type of the column."
+msgstr "Defina o tipo de coluna"
+
+#: inc/shortcodes/settings.php:91
+msgid "Last Column"
+msgstr "Última coluna"
+
+#: inc/shortcodes/settings.php:92
+msgid "Pick if column is last."
+msgstr "Defina se a coluna é a última"
+
+#: inc/shortcodes/settings.php:101
+msgid "Column Content"
+msgstr "Conteúdo da coluna"
+
+#: inc/shortcodes/settings.php:102
+msgid "Add the column content."
+msgstr "Adicione conteúdo à coluna"
+
+#: inc/shortcodes/settings.php:117
+msgid "Toggle Title"
+msgstr "Título do toggle"
+
+#: inc/shortcodes/settings.php:127
+msgid "Toggle Content"
+msgstr "Conteúdo do toggle"
+
+#: inc/shortcodes/settings.php:128
+msgid "Add the toggle content."
+msgstr "Adicione conteúdo do toggle"
+
+#: inc/shortcodes/settings.php:137
+msgid "Default Value"
+msgstr "Valor padrão"
+
+#: inc/shortcodes/settings.php:138
+msgid "Chose to show either open or closed toggle content."
+msgstr "Defina se o conteúdo deve estar visível ou oculto"
+
+#: inc/shortcodes/settings.php:146
+msgid "Insert Toggle Content Shortcode"
+msgstr "Inserir shortcode de conteúdo do toggle"
+
+#: inc/widgets/widget-ad.php:9
+msgid " - Advertising Widget"
+msgstr " - Widget de publicidade"
+
+#: inc/widgets/widget-ad.php:122
+msgid "Fullwidth"
+msgstr "Largura total"
+
+#: inc/widgets/widget-ad.php:123
+msgid "Halfwidth"
+msgstr "Metade da largura"
+
+#: inc/widgets/widget-facebook.php:9
+msgid " - Facebook"
+msgstr " - Facebook"
+
+#: inc/widgets/widget-facebook.php:64
+msgid "Facebook link:"
+msgstr "Link do facebook"
+
+#: inc/widgets/widget-newsletter.php:10
+msgid " - Newsletter"
+msgstr " - Newsletter"
+
+#: inc/widgets/widget-newsletter.php:137 inc/widgets/widget-twitter.php:59
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/widget-newsletter.php:141
+msgid "Newsletter Text:"
+msgstr "Texto da newsletter:"
+
+#: inc/widgets/widget-newsletter.php:145
+msgid "Chose Service:"
+msgstr "Escolha o serviço:"
+
+#: inc/widgets/widget-newsletter.php:154
+msgid "MailChimp API Key:"
+msgstr "MailChimp API Key:"
+
+#: inc/widgets/widget-newsletter.php:159
+msgid "MailChimp API List:"
+msgstr "MailChimp API List:"
+
+#: inc/widgets/widget-newsletter.php:164
+msgid "Sendloop Username:"
+msgstr "Sendloop Username:"
+
+#: inc/widgets/widget-newsletter.php:169
+msgid "Sendloop List ID:"
+msgstr "Sendloop List ID:"
+
+#: inc/widgets/widget-tabbed.php:9
+msgid " - Tabbed Widgets"
+msgstr " - Widgets em tabulações"
+
+#: inc/widgets/widget-tabbed.php:26
+msgid "Popular"
+msgstr "Popular"
+
+#: inc/widgets/widget-tabbed.php:27
+msgid "Recent"
+msgstr "Recente"
+
+#: inc/widgets/widget-tabbed.php:28
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/widgets/widget-tabbed.php:28
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/widgets/widget-tabbed.php:189
+msgid "Number of popular posts:"
+msgstr "Número de artigos populares:"
+
+#: inc/widgets/widget-tabbed.php:194
+msgid "Number of recent posts:"
+msgstr "Número de artigos recentes:"
+
+#: inc/widgets/widget-tabbed.php:199
+msgid "Taxonomy Select:"
+msgstr "Escolha a taxonomia:"
+
+#: inc/widgets/widget-twitter.php:10
+msgid " - Twitter Stream"
+msgstr " - Stream do twitter"
+
+#: inc/widgets/widget-twitter.php:64
+msgid "Number of tweets:"
+msgstr "Número de tweets:"
+
+#: inc/widgets/widget-twitter.php:68
+msgid "Twitter will not work unless you have set up Twitter authentication at "
+msgstr ""
+"O twitter não vai funcionar a menos que defina a autenticação do Twitter em "
