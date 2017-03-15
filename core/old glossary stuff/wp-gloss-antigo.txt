@@ -1,0 +1,181 @@
+about, sobre
+activate, activar
+admin bar, barra de administração
+archives, arquivo (no singular)
+are you sure you want, Tem a certeza que pretende
+aside, aparte
+aspect ratio, rácio largura:altura ??
+at the top, na parte superior, no topo (conforme o contexto) ??
+at the bottom, na parte inferior, na base (conforme o contexto) ??
+auto-embeds, incorporação automática
+backup (s), backup (masc.), cópia de segurança
+backup (v), fazer backup, cópia de segurança
+banner (s), banner
+batch (s), lote
+batch (adj), em lote
+blogroll, lista de ligações
+browse, procurar, quando a tradução remete para uma acção óbvia, pode omitir-se. P.e.: “You are currently browsing the archives for…” traduzir por “Está no arquivo de…”
+browser, navegador
+by default, por omissão
+Can’t, não é possível
+Couldn’t, não foi possível
+captioning ID, ID de legenda (fem.)
+cheating, uh?, A fazer batota? ??
+check (v), marcar ou confirmar (conforme contexto)
+check out, consultar
+child theme, tema subordinado, tema derivado, tema dependente ?? 2010.05.19
+clear, limpar, revisto (conforme contexto) ??
+closed, fechado
+complete, concluído/concluída
+connect to x, ligar a x ou ligar-se a x
+content, conteúdo
+core, núcleo (da aplicação, de arquivos) ??
+crop (v), recortar
+customization, personalização
+database, base de dados
+deactivate, desactivar
+default (s), por omissão
+default (adj), por omissão (invariável, sem plural)
+delete, eliminar, excluir
+design, design
+disable, desativar
+display (v), mostrar, exibir
+display (s), exibição
+Don’t be stupid, Não invente… ??
+done, concluído
+download (s), descarregar
+download (v), descarregar
+draft, rascunho
+e-mail, email (sem hífen)
+embed (v), incorporar, incorporar conteúdo
+embed(s), embedded (s, adj), conteúdo(s) incorporado(s), incorporação(ões) (conforme o contexto)
+enable, ativar
+enter, digite ??
+entry, artigo, entrada (conforme o contexto) ??
+excerpt, resumo
+feature (n), recurso, funcionalidade (conforme o contexto) ??
+feeds, feeds
+fetch, procurar, recolher (conforme o contexto)
+Freshly Pressed, Notícias frescas (ou Acabadinhas de sair…)
+freshness, atualidade, tempo desde a publicação
+font, fonte
+first name, nome
+frame, frame ??
+gatekeeper, guardião ??
+global dashboard, painel geral
+header, cabeçalho
+help on, ajuda sobre
+hidden Gui, GUI oculta ??
+hosting, alojamento
+hosting provider, fornecedor de alojamento
+hotkeys, teclas de acesso, acesso rápido ??
+hot tag, tag popular
+ID, ID (fem.)
+invoke URLs, chamar URL (acrónimos NUNCA têm plural, muito menos com ‘s)
+keep in mind that, lembre-se que ??
+key master, admin-mestre ??
+last name, apelido
+latest, mais recentes
+link, link, ligação ?? 2011.05.19
+log, registo, relatório
+log in, login
+log out, logout
+loop (n), loop (masc.)
+loop (v), fazer loop
+malware, malware (masc.)
+manage, gerir
+mapping (s), mapeamento
+mapping (v), a mapear
+matching x, correspondente a x
+media, (conteúdo) multimédia (conforme o contexto)
+moderate, moderar
+newest, mais recente
+nickname, alcunha
+no x found, nenhum x encontrado
+offine, offine (sem hífen)
+online, online (sem hí­fen)
+on/off (adj), ativo/inativo
+Open Source, Código Aberto
+Oops, Caramba
+Ordered list (ol), lista ordenada
+parent category, categoria principal, categoria de topo ??
+parent theme, tema principal
+password strength, nível de segurança da senha
+permalink, link permanente ??
+pingback, pingback (masc.) ??
+plugin, plugin (sem hí­fen)
+post (n), artigo
+post (v), publicar
+prefetch, pré-carregar
+preview, pré-visualizar (v)
+preview, pré-visualização (s)
+query, consulta
+RSS feed, feed RSS
+rating, classificação
+Reblog, Republicar
+Reblogged, Republicado
+Reblogging, Republicar
+refresh (v), atualizar
+reply to (v), responder a
+request (v), solicitar
+reset (v), recomeçar, valores padrão (conforme o contexto)
+respond to (v), responder a
+responsive design, design responsivo
+Rich Editor, Editor visual
+role, função
+save, guardar
+saved, guardado(a)
+schedule (n), agenda
+schedule (v), agendar
+scheduled, agendado
+search(s), procura
+search(v), procurar
+search engine, motor de pesquisa
+search for, procurar
+secret key, chave secreta
+settings, opções, configurações (conforme o contexto) ??
+set a password, definir uma senha
+show, mostrar
+shuffle, baralhar, desordenado/sem ordem ??
+sidebar, barra lateral 2011.05.19
+slug, slug (masc.)
+so you cannot, logo, não é possível (conforme o contexto)
+soon (adv), em breve
+spam, spam (em minúsculas)
+start (s), início
+start (v), iniciar, começar ??
+state-of-the-art, de vanguarda ou avançado ??
+status, estado, status ??
+sticky, fixo
+stretch to fit, ajustar ao tamanho, aumentar para ajustar tamanho
+submit, enviar
+tab, separador
+tag, etiqueta
+tagline, assinatura ??
+target, destino
+template, modelo
+theme, tema
+then, então
+throttling, controlo de fluxo
+timezone, fuso horário
+trackback, trackback (masc.)
+trash, lixo, mover para o lixo
+URL, URL (masc.) [acrónimos NUNCA são pluralizados, muito menos com ‘s ]
+undelete (v), restaurar, recuperar ??
+unordered list (ul), lista não ordenada
+username, utilizador, nome de utilizador (conforme o contexto)
+upload(s), carregamento, carregado
+upload(v), carregar
+view (s), visualização
+view (v), ver
+warning, atenção
+website, site (masc.)
+widget, widget (masc.)
+with success, bem sucedido, sem problemas ??
+write, escrever, gravar, guardar (conforme o contexto)
+you are about to, está prestes a
+you are not allowed to, não tem permissão para
+you can just/only, basta, só pode (conforme o contexto)
+you cannot to, não tem permissão para
+you must have x, deve ter x
+zorglub, zorglub

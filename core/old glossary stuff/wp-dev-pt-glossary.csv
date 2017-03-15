@@ -1,0 +1,16 @@
+en,pt,pos,description
+about,sobre,preposition,
+activate,activar,verb,
+"admin bar","barra de administração",noun,
+archives,arquivo,noun,"sempre no singular"
+"aspect ratio","rácio largura:altura",noun,
+"custom post type","tipo de conteúdo personalizado",noun,
+directory,directório,noun,
+link,ligação,noun,
+plugin,plugin,noun,"Sem tradução, manter no original"
+post,publicar,verb,
+post,artigo,noun,
+"post type","tipo de conteúdo",noun,"diferente de artigo; tradução ainda em discussão"
+"poster image"," imagem de capa",noun,
+sidebar,"barra lateral",noun,
+widget,widget,noun,"Não se traduz, é um termo próprio do jargão do WordPress"

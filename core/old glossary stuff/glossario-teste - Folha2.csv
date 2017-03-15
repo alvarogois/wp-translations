@@ -1,0 +1,191 @@
+en,pt,pos,description
+about,sobre,preposition,
+activate,activar,verb,
+admin bar,barra de administração,noun,
+archives,arquivo,noun,sempre no singular
+are you sure you want,Tem a certeza que pretende,expression,
+aside,aparte,noun,
+aspect ratio,rácio largura:altura,noun,
+at the bottom,na parte inferior (ou na base),expression,conforme o contexto
+at the top,na parte superior (ou no topo),expression,conforme o contexto
+auto-embeds,incorporação automática,noun,
+backup,cópia de segurança,noun,
+backup,cópia de segurança,verb,
+banner,banner,noun,
+batch,lote,noun,
+batch,em lote,adjective,
+blogroll,lista de ligações,noun,
+browse,procurar,verb,quando a tradução remete para uma acção óbvia
+browser,navegador,noun,
+by default,por omissão,expression,
+Can’t,não é possível,expression,
+captioning ID,ID de legenda,expression,no feminino
+"cheating, uh?",A fazer batota?,expression,
+check,marcar (ou confirmar),verb,conforme o contexto
+check out,consultar,verb,
+child theme,tema dependente,noun,ainda em discussão
+clear,limpar,verb,
+closed,fechado,adjective,
+complete,concluído/concluída,adjective,
+connect to x,ligar a x ou ligar-se a x,verb,
+content,conteúdo,noun,
+Couldn’t,não foi possível,expression,
+crop,recortar,verb,
+custom post type,tipo de conteúdo personalizado,noun,
+customization,personalização,noun,
+Customizer,Personalizador,noun,maiúscula inicial
+database,base de dados,noun,
+deactivate,desactivar,verb,
+default,por omissão,noun,invariável sem plural
+default,por omissão,adjective,invariável sem plural
+delete,eliminar (ou excluir),verb,conforme o contexto
+design,design,noun,
+directory,directório,noun,
+disable,desativar,verb,
+display,mostrar (ou exibir),verb,
+display,exibição,noun,
+Don’t be stupid,Não invente…,expression,
+done,concluído,adjective,
+download,descarregar,noun,
+download,descarregar,verb,
+draft,rascunho,noun,
+e-mail,email,noun,sem hífen
+embed,incorporação,noun,
+embed,incorporar,verb,incorporar conteúdo
+embedded,incorporado,adjective,
+enable,ativar,verb,
+enter,digite,verb,
+entry,artigo (ou entrada),noun,
+excerpt,resumo,noun,
+feature,recurso (ou funcionalidade),noun,conforme o contexto
+feeds,feeds,noun,não se traduz
+fetch,procurar (ou recolher),verb,conforme o contexto
+first name,nome,noun,
+font,fonte,noun,
+frame,frame,noun,não se traduz (em discussão)
+Freshly Pressed,Notícias frescas (ou Acabadinhas de sair…),expression,
+freshness,actualidade (ou tempo desde a publicação),expression,conforme o contexto
+gatekeeper,guardião,noun,
+global dashboard,painel geral,noun,
+header,cabeçalho,noun,
+help on,ajuda sobre,expression,
+hosting,alojamento,noun,
+hosting provider,fornecedor de alojamento,noun,
+hot tag,etiqueta popular,expression,
+hotkeys,teclas de acesso (ou atalhos de teclado),expression,conforme o contexto
+ID,ID,noun,feminino
+invoke URLs,chamar URL,expression,acrónimos (URL) não têm plural
+keep in mind that,lembre-se que,expression,
+keyword,palavra-chave (ou descritor),noun,conforme o contexto
+last name,apelido,expression,
+latest,mais recentes,adjective,
+link,ligação,noun,
+link to,ligar a,verb,
+log,registo (ou relatório),noun,conforme o contexto
+log in,iniciar sessão,expression,
+log out,sair,expression,
+logged in,sessão iniciada,expression,
+logged in as,sessão iniciada como,expression,
+loop,loop,noun,"não se traduz, é um termo próprio do jargão do WordPress"
+malware,malware,noun,"não se traduz, masculino"
+manage,gerir,verb,
+mapping,mapeamento,noun,
+mapping,a mapear,verb,
+matching x,correspondente a x,expression,
+media,(conteúdo) multimédia,noun,conforme o contexto
+moderate,moderar,verb,
+newest,mais recente,adjective,
+nickname,alcunha,noun,
+no x found,nenhum x encontrado,expression,
+offine,offine,adjective,sem hífen
+on/off (adj),ativo/inativo,adjective,
+online,online,adjective,sem hífen
+Oops,Caramba,expression,
+Open Source,Código Aberto,noun,
+Ordered list (ol),lista ordenada,expression,
+parent category,categoria principal,expression,ainda em discussão
+parent theme,tema principal,noun,ainda em discussão
+password,senha,noun,preferível a palavra-passe (no WordPress pode ser uma frase com espaços)
+password strength,nível de segurança da senha,expression,
+permalink,ligação permanente,noun,
+pingback,pingback,noun,"não se traduz, masculino"
+plugin,plugin,noun,"sem tradução, manter no original"
+post,publicar,verb,
+post,artigo,noun,
+post type,tipo de conteúdo,noun,diferente de artigo; tradução ainda em discussão
+poster image,imagem de capa,noun,
+prefetch,pré-carregar,verb,
+preview,pré-visualizar,verb,
+preview,pré-visualização,noun,
+query,consulta,noun,
+rating,classificação,noun,
+reblog,republicar,verb,
+reblogged,republicado,adjective,
+reblogging,republicar,verb,
+refresh,actualizar,verb,
+reply to,responder a,verb,
+request,solicitar,verb,
+reset,recomeçar (ou valores padrão),verb,conforme o contexto
+respond to,responder a (ou comentar),verb,conforme o contexto
+responsive design,design responsivo,noun,
+Rich Editor,Editor visual,noun,
+role,função,noun,
+RSS feed,feed RSS,noun,
+save,guardar,verb,
+saved,guardado(a),adjective,
+schedule,agenda,noun,
+schedule,agendar,verb,
+scheduled,agendado,adjective,
+search,procura,noun,
+search,procurar,verb,
+search engine,motor de pesquisa,noun,
+search for,procurar,verb,
+secret key,chave secreta,noun,
+set a password,definir uma senha,expression,
+settings,opções,noun,
+show,mostrar,verb,
+shuffle,baralhar,verb,
+sidebar,barra lateral,noun,
+slug,slug,noun,masculino em discussão
+so you cannot,"logo, não é possível ",expression,
+soon,em breve,adjective,
+spam,spam,noun,em minúsculas
+start,início,noun,
+start,começar (ou iniciar),verb,conforme o contexto
+state-of-the-art,de vanguarda,expression,
+status,estado,noun,
+sticky,fixo,adjective,
+stretch to fit,ajustar ao tamanho,expression,
+submit,enviar,verb,
+tab,separador,noun,
+tag,etiqueta,noun,
+tagline,assinatura,noun,
+target,destino,noun,
+template,modelo,noun,
+theme,tema,noun,
+then,então,adverb,
+throttling,controlo de fluxo,expression,
+timezone,fuso horário,noun,
+trackback,trackback,noun,"não se traduz, masculino"
+trash,lixo,noun,
+trash,mover para o lixo,verb,
+undelete,restaurar,verb,
+unordered list (ul),lista não ordenada,expression,
+upload,carregamento,noun,
+upload,carregar,verb,
+uploaded,carregado,adjective,
+URL,URL,noun,"masculino, acrónimos nunca são pluralizados"
+username,utilizador (ou nome de utilizador),noun,conforme o contexto
+view,visualização,noun,
+view,ver,verb,
+warning,atenção,noun,
+website,site,noun,masculino
+widget,widget,noun,"não se traduz, é um termo próprio do jargão do WordPress"
+with success,"com sucesso, bem sucedido (ou sem problemas)",expression,conforme o contexto
+write,escrever,verb,
+you are about to,está prestes a,expression,
+you are not allowed to,não tem permissão para,expression,
+you can just/only,basta (ou só pode),expression,conforme o contexto
+you cannot to,não tem permissão para,expression,
+you must have x,deve ter x,expression,
+zorglub,zorglub,noun,
