@@ -1,0 +1,1546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpiCRM - Universal WordPress CRM Solution v2.1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-14 17:27+0000\n"
+"PO-Revision-Date: 2017-03-14 18:40+0000\n"
+"Last-Translator: Alvaro Gois dos Santos <alvarogois@ovni.org>\n"
+"Language-Team: Portuguese (Portugal) <agois@empower.pt>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Source-Locale: pt_BR\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/import_export.php:110 admin/upicrm_admin_import_export.php:157
+msgid "Success!"
+msgstr "Sucesso!"
+
+#: admin/import_export.php:112 admin/upicrm_admin_import_export.php:159
+msgid "new records imported into UpiCRM."
+msgstr "novos registos importados para o CRM"
+
+#: admin/import_export.php:123 admin/upicrm_admin_import_export.php:170
+msgid "Error occurred, could not import data"
+msgstr "ERRO! Não foi possível importar os dados"
+
+#: admin/upicrm_admin.php:102 admin/upicrm_email_notifications.php:33
+msgid "Lead Management"
+msgstr "Gestão de leads"
+
+#: admin/upicrm_admin.php:108 admin/upicrm_admin.php:161
+msgid "Data Types & Fields"
+msgstr "Tipos e campos"
+
+#: admin/upicrm_admin.php:111 admin/upicrm_admin.php:209
+msgid "Email Notifications"
+msgstr "Notificações"
+
+#: admin/upicrm_admin.php:112 admin/upicrm_admin.php:244
+msgid "Auto Lead Management"
+msgstr "Automatização"
+
+#: admin/upicrm_admin.php:113 admin/upicrm_admin.php:256
+msgid "Lead Aggregation"
+msgstr "Agregação"
+
+#: admin/upicrm_admin.php:114 admin/upicrm_admin.php:292
+msgid "Import & Export"
+msgstr "Importar e exportar"
+
+#: admin/upicrm_admin.php:117 admin/upicrm_admin.php:268
+#, fuzzy
+msgid "Web Services"
+msgstr "Web Services"
+
+#: admin/upicrm_admin.php:118 admin/upicrm_admin.php:280
+msgid "Users Center"
+msgstr "Utilizadores"
+
+#: admin/upicrm_admin.php:137 admin/upicrm_admin.php:149
+msgid "Dashboard"
+msgstr "Painel"
+
+#: admin/upicrm_admin.php:173
+msgid "Leads Management"
+msgstr "Gestão de leads"
+
+#: admin/upicrm_admin.php:185 admin/upicrm_settings.php:171
+msgid "Existing Fields"
+msgstr "Campos existentes"
+
+#: admin/upicrm_admin.php:197 admin/upicrm_settings.php:188
+msgid "Existing Statuses"
+msgstr "Estados existentes"
+
+#: admin/upicrm_admin.php:221
+msgid "Edit Lead"
+msgstr "Editar lead"
+
+#: admin/upicrm_admin.php:304
+msgid "Web Service Options"
+msgstr "Opções de webservice"
+
+#: admin/upicrm_admin_import_export.php:22
+#: template/import_export_template.php:1
+msgid ""
+"Import data into UpiCRM :<br />\r\n"
+"You can easily upload / import data into UpiCRM. In order to upload data "
+"into UpiCRM please do the following:"
+msgstr ""
+"Importar dados para o UpiCRM:<br />\n"
+"Pode carregar/importar dados para o UpiCRM de forma simples. Para fazer isso "
+"siga os passos:"
+
+#: admin/upicrm_admin_import_export.php:25
+#: template/import_export_template.php:4
+msgid "Download this Excel file"
+msgstr "Descarregue este ficheiro Excel"
+
+#: admin/upicrm_admin_import_export.php:25
+#: template/import_export_template.php:4
+msgid "and open it in Excel / Google docs"
+msgstr "E edite-o com o Excel ou Google docs"
+
+#: admin/upicrm_admin_import_export.php:27
+#: template/import_export_template.php:6
+msgid ""
+"2. Locate the data into the right columns inside the excel file. Usually "
+"this should be an easy     \r\n"
+"    operation using select / copy on the \"other\" file, and then \"paste\" "
+"into the UpiCRM Excel   \r\n"
+"    file."
+msgstr ""
+"2. Coloque as informações nas colunas correspondentes no ficheiro Excel. \n"
+"    (dica: Ctrl+C / Ctrl+V)"
+
+#: admin/upicrm_admin_import_export.php:31
+#: template/import_export_template.php:10
+msgid ""
+"3. Do NOT change the structure / format of the excel file, just copy the "
+"text data into the right \r\n"
+"    columns, save and exit the file."
+msgstr ""
+"3. Atenção: NÃO altere a estrutura ou formato da folha de cálculo, copie e "
+"cole as informações \n"
+"nas colunas da direita, guarde o ficheiro e saia da aplicação."
+
+#: admin/upicrm_admin_import_export.php:34
+#: template/import_export_template.php:13
+msgid "4. Upload the file into UpiCRM and you're done!"
+msgstr "4. Carregue o ficheiro no UpiCRM e pronto!"
+
+#: admin/upicrm_admin_import_export.php:36
+#: template/import_export_template.php:15
+msgid ""
+"5. Note: any automatic lead management rules you may have – will be "
+"processed during the  \r\n"
+"    import process. "
+msgstr ""
+"5. Lembre-se: quaisquer regras automáticas de gestão de leads serão "
+"processadas durante \n"
+"    a importação do ficheiro. "
+
+#: admin/upicrm_admin_import_export.php:41
+#: template/import_export_template.php:20
+msgid "Export all leads data to Excel "
+msgstr "Exportar todos os leads para Excel"
+
+#: admin/upicrm_admin_import_export.php:44 admin/upicrm_admin_users.php:110
+#: template/import_export_template.php:23
+msgid "Are you sure?"
+msgstr "Tem a certeza?"
+
+#: admin/upicrm_admin_import_export.php:45
+#: template/import_export_template.php:24
+msgid "import all existing forms plugins data into UpiCRM"
+msgstr "importar os dados de todos os plugins de formulários para o UpiCRM"
+
+#: admin/upicrm_admin_import_export.php:48
+#: template/import_export_template.php:27
+msgid ""
+"Note: this will import \"old\" data from the forms you're currently using, "
+"if they are configured to keep entries in a database. This will NOT import "
+"new data from an external / new source. "
+msgstr ""
+"Atenção: isto irá importar os dados antigos dos formulários que está a usar "
+"mas apenas se guardarem a informação na base de dados. Dados de uma fonte "
+"nova ou externa NÃO serão importados. "
+
+#: admin/upicrm_admin_import_export.php:51
+#: template/import_export_template.php:30
+msgid "Import New data into UpiCRM :"
+msgstr "Importar novos dados para o UpiCRM"
+
+#: admin/upicrm_admin_import_export.php:53
+#: template/import_export_template.php:32
+msgid "Download UpiCRM Sample Excel File "
+msgstr "Descarregar ficheiro de Excel de exemplo"
+
+#: admin/upicrm_admin_import_export.php:58
+#: template/import_export_template.php:37
+msgid "Upload & Import"
+msgstr "Carregar e importar"
+
+#: admin/upicrm_admin_import_export.php:60
+#: template/import_export_template.php:39
+msgid "Upload"
+msgstr "Carregar"
+
+#: admin/upicrm_admin_import_export.php:63
+#: template/import_export_template.php:42
+msgid "Example: import data from Excel:"
+msgstr "Exemplo: importar dados do Excel"
+
+#: admin/upicrm_admin_lists.php:24
+msgid "Reset all settings successfully"
+msgstr "Todas as configurações repostas"
+
+#: admin/upicrm_admin_lists.php:29
+msgid "Delete all leads successfully"
+msgstr "Todos os leads eliminadas com sucesso"
+
+#: admin/upicrm_admin_lists.php:33
+msgid "Changes saved successfully"
+msgstr "Alterações guardadas com sucesso"
+
+#: admin/upicrm_admin_lists.php:77 admin/upicrm_dashboard.php:275
+#: template/dashboard_template.php:199
+msgid "Default date range:"
+msgstr "Intervalo de datas:"
+
+#: admin/upicrm_admin_lists.php:79 admin/upicrm_dashboard.php:277
+#: template/dashboard_template.php:201
+msgid "1 Day"
+msgstr "1 dia"
+
+#: admin/upicrm_admin_lists.php:82 admin/upicrm_dashboard.php:280
+#: template/dashboard_template.php:204
+msgid "7 Days"
+msgstr "7 dias"
+
+#: admin/upicrm_admin_lists.php:85 admin/upicrm_dashboard.php:283
+#: template/dashboard_template.php:207
+msgid "1 Month"
+msgstr "1 mês"
+
+#: admin/upicrm_admin_lists.php:88 admin/upicrm_dashboard.php:286
+#: template/dashboard_template.php:210
+msgid "3 Months"
+msgstr "3 meses"
+
+#: admin/upicrm_admin_lists.php:91 admin/upicrm_dashboard.php:289
+#: template/dashboard_template.php:213
+msgid "All Time"
+msgstr "Desde sempre"
+
+#: admin/upicrm_admin_lists.php:94 admin/upicrm_dashboard.php:292
+#: template/dashboard_template.php:216
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/upicrm_admin_lists.php:100 admin/upicrm_dashboard.php:298
+#: template/dashboard_template.php:222
+msgid "from:"
+msgstr "de:"
+
+#: admin/upicrm_admin_lists.php:106 admin/upicrm_dashboard.php:304
+#: template/dashboard_template.php:228
+msgid "to:"
+msgstr "para:"
+
+#: admin/upicrm_admin_lists.php:113 admin/upicrm_admin_lists.php:165
+#: admin/upicrm_dashboard.php:311 template/dashboard_template.php:235
+msgid "Apply"
+msgstr "Aplicar"
+
+#: admin/upicrm_admin_lists.php:117
+msgid "Choose Fields to display:"
+msgstr "Escolha os campos visíveis:"
+
+#: admin/upicrm_admin_lists.php:133
+msgid "Set table length (Row count - Default value 25) :"
+msgstr "Definir tamanho da tabela (por omissão, 25 linhas):"
+
+#: admin/upicrm_admin_lists.php:157
+msgid "Delete Selected leads"
+msgstr "Eliminar leads seleccionados"
+
+#: admin/upicrm_admin_lists.php:160
+msgid "Assign selected leads to"
+msgstr "Associar leads seleccionados a"
+
+#: admin/upicrm_admin_lists.php:163
+msgid "Change selected leads status to"
+msgstr "Mudar estado dos leads seleccionados para"
+
+#: admin/upicrm_admin_lists.php:178
+msgid "Leads Table"
+msgstr "Tabela de leads"
+
+#: admin/upicrm_admin_lists.php:207
+msgid "Filter"
+msgstr "Filtro"
+
+#: admin/upicrm_admin_lists.php:217
+msgid "Select all"
+msgstr "Seleccionar tudo"
+
+#: admin/upicrm_admin_lists.php:455 admin/upicrm_lead_route.php:342
+msgid "Remove this lead?"
+msgstr "Remover este lead?"
+
+#: admin/upicrm_admin_lists.php:494 admin/upicrm_admin_lists.php:585
+#: admin/upicrm_admin_lists.php:606
+msgid "Saved successfully!"
+msgstr "Guardado com sucesso!"
+
+#: admin/upicrm_admin_lists.php:514
+msgid "Status update request was sent successfully!"
+msgstr "Actualização de estado solicitada com sucesso!"
+
+#: admin/upicrm_admin_lists.php:529
+msgid "Lead retransmission success!"
+msgstr "Retransmissão de lead feita com sucesso!"
+
+#: admin/upicrm_admin_lists.php:544
+msgid "Webservice send success!"
+msgstr "Webservice enviado com sucesso!"
+
+#: admin/upicrm_admin_lists.php:551
+msgid "Remove all selected leads?"
+msgstr "Remover todos os leads seleccionados?"
+
+#: admin/upicrm_admin_lists.php:659
+msgid "Delete all"
+msgstr "Eliminar tudo"
+
+#: admin/upicrm_admin_lists.php:662
+msgid "Assigned all leads to"
+msgstr "Associar todos os leads a"
+
+#: admin/upicrm_admin_lists.php:665
+msgid "Change all leads statuses to"
+msgstr "Mudar todos os estados dos leads para"
+
+#: admin/upicrm_admin_lists.php:667
+msgid "Send"
+msgstr "Enviar"
+
+#: admin/upicrm_admin_users.php:17 admin/upicrm_integrations.php:22
+#: admin/upicrm_lead_route.php:25 admin/upicrm_wsp.php:24
+msgid "update saved successfully"
+msgstr "actualização guardada com sucesso"
+
+#: admin/upicrm_admin_users.php:24
+msgid "saved successfully"
+msgstr "Guardado!"
+
+#: admin/upicrm_admin_users.php:37
+msgid ""
+"UpiCRM User hierarchy: <br />\r\n"
+"UpiCRM is designed to work in a multi-user / global organization "
+"environment, with up to 5 tiers of users, per your choice / definition.\r\n"
+"<br />\r\n"
+"For Example: you can define a single \"Global Sales Manager\" , three "
+"\"Regional Sales Managers\", under each of them - local \"Sales "
+"representatives\", that are working with \"External distributors\".\r\n"
+"<br />\r\n"
+"Per every user you can define:<br />\r\n"
+"1.      Permission to re-assign leads back to the manager in charge.<br />"
+"\r\n"
+"2.      Will the manager receive status updates per every status changes by "
+"email. <br />\r\n"
+"\r\n"
+"All users, when connected to the UpiCRM dashboard, will see not only the "
+"leads assigned to them, but also the aggregation of leads assigned to the "
+"users that are reporting to them.\r\n"
+"<br /><br />\r\n"
+"In order add users to UpiCRM: <br />"
+msgstr ""
+"Hierarquia de utilizadores no UpiCRM: <br />\n"
+"O UpiCRM está projectado para trabalhar num ambiente de organização multi-"
+"utilizador/global, com até 5 níveis de utilizador,\n"
+"escolhidos/definidos por si.\n"
+"<br />\n"
+"Por exemplo: pode definir um único \"Gestor de Vendas Global\", três "
+"\"Gestores Regionais de Vendas\" e, em cada um destes, \n"
+"\"Representantes de Vendas\" locais, que trabalham com \"Distribuidores "
+"Externos\".\n"
+"<br />\n"
+"Para cada utilizador pode definir: <br />\n"
+"1. A autorização para voltar a atribuir o lead ao gestor responsável. <br /"
+">\n"
+"2. Se o gestor recebe actualizações por email de cada mudança de estado. "
+"<br />\n"
+"\n"
+"Todos os utilizadores, quando ligados ao painel do CRM, irão ver não só os "
+"leads que lhes estão atribuídos, \n"
+"mas também o agregado de leads atribuídos aos utilizadores que reportam a "
+"si.\n"
+"<br /> <br />\n"
+"Para adicionar utilizadores ao CRM: <br />"
+
+#: admin/upicrm_admin_users.php:49
+msgid "1. Add a new WordPress \"subscriber\" users<br />"
+msgstr ""
+"1. Adicione um novo utilizador WordPress com classe de \"Subscritor\" <br />"
+
+#: admin/upicrm_admin_users.php:50
+msgid "2. Add the new user to UpiCRM:<br />"
+msgstr "2. Adicione o novo utilizador ao CRM: <br />"
+
+#: admin/upicrm_admin_users.php:51
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; a.  Choose the new user (drop down list)<br />"
+msgstr ""
+"&nbsp;&nbsp;&nbsp;&nbsp; a.  Escolha o novo utilizador (selector)<br />"
+
+#: admin/upicrm_admin_users.php:52
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; b.  Choose the manager (drop down list)<br />"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp; b.  Escolha o gestor (selector)<br />"
+
+#: admin/upicrm_admin_users.php:53
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; c.  Add role (free text / label)<br />"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp; c.  Adicione uma função (texto/campo)<br />"
+
+#: admin/upicrm_admin_users.php:54
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; d.  Choose UpiUser/UpiAdmin <br />"
+msgstr ""
+"&nbsp;&nbsp;&nbsp;&nbsp; d.  Escolha entre User ou Admin no UpiCRM <br />"
+
+#: admin/upicrm_admin_users.php:55
+msgid ""
+"&nbsp;&nbsp;&nbsp;&nbsp; e.  Choose – if a user can re-assign eads back to "
+"the manager ? yes/no. <br />"
+msgstr ""
+"&nbsp;&nbsp;&nbsp;&nbsp; e.  Escolha se o utilizador pode ou não re-atribuir "
+"leads ao gestor<br />"
+
+#: admin/upicrm_admin_users.php:56
+msgid ""
+"&nbsp;&nbsp;&nbsp;&nbsp; f.  Choose: will a manager receive notifications on "
+"the user status updates  ? yes/no. <br /> <br />"
+msgstr ""
+"&nbsp;&nbsp;&nbsp;&nbsp; f.  Escolha se o gestor irá receber notificações "
+"sobre as actualizações feitas pelo utilizador <br /> <br />"
+
+#: admin/upicrm_admin_users.php:57
+msgid ""
+" Note: you can always click the \"edit\" icon and change the user's role/"
+"position/permissions."
+msgstr ""
+"Lembre-se: pode editar as configurações de cada utilizador a qualquer momento"
+
+#: admin/upicrm_admin_users.php:62
+msgid "Add User"
+msgstr "Adicionar utilizador"
+
+#: admin/upicrm_admin_users.php:66
+msgid "User"
+msgstr "Utilizador"
+
+#: admin/upicrm_admin_users.php:70
+msgid "Reports to"
+msgstr "Reporta a"
+
+#: admin/upicrm_admin_users.php:74
+msgid "Role"
+msgstr "Função"
+
+#: admin/upicrm_admin_users.php:78 classes/upicrm_users.php:50
+msgid "Permission"
+msgstr "Permissão"
+
+#: admin/upicrm_admin_users.php:80 classes/upicrm_users.php:54
+msgid "UpiCRM User"
+msgstr "Utilizador UpiCRM"
+
+#: admin/upicrm_admin_users.php:81 classes/upicrm_users.php:55
+msgid "UpiCRM Admin"
+msgstr "Admin UpiCRM"
+
+#: admin/upicrm_admin_users.php:89 admin/upicrm_admin_users.php:148
+msgid "Can Re-assign leads back to manager"
+msgstr "Pode re-atribuir leads ao gestor"
+
+#: admin/upicrm_admin_users.php:94 admin/upicrm_admin_users.php:149
+msgid "Update manager on status changes"
+msgstr "Actualizar gestor sobre mudanças de estado"
+
+#: admin/upicrm_admin_users.php:99
+msgid "Add UpiCRM User"
+msgstr "Adicionar utilizador UpiCRM"
+
+#: admin/upicrm_admin_users.php:103
+msgid "Global User Hierarchy"
+msgstr "Hierarquia global de utilizadores"
+
+#: admin/upicrm_admin_users.php:112 admin/upicrm_settings.php:124
+msgid "Reset configuration"
+msgstr "Repor configurações"
+
+#: admin/upicrm_admin_users.php:117
+msgid "Delete this user from UpiCRM?"
+msgstr "Eliminar este utilizador do UpiCRM?"
+
+#: admin/upicrm_admin_users.php:146 admin/upicrm_integrations.php:171
+#: admin/upicrm_lead_route.php:310 admin/upicrm_wsp.php:134
+#: classes/upicrm_ui_builder.php:103
+msgid "Remove"
+msgstr "Remover"
+
+#: admin/upicrm_admin_users.php:147 admin/upicrm_integrations.php:170
+#: admin/upicrm_lead_route.php:309 admin/upicrm_wsp.php:133
+#: classes/upicrm_ui_builder.php:102
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/upicrm_admin_users.php:181
+msgid "User Added Successfully"
+msgstr "utilizador adicionado com sucesso"
+
+#: admin/upicrm_admin_users.php:190
+msgid "Error: User already defined, please edit existing user"
+msgstr "ERRO: Este utilizador já existe"
+
+#: admin/upicrm_api.php:39
+msgid "You have successfully changed lead status to:"
+msgstr "Alterou o estado do lead para"
+
+#: admin/upicrm_api.php:58
+msgid "You Have successfully assigned the lead to:"
+msgstr "Associou este lead a"
+
+#: admin/upicrm_api.php:73
+msgid "Email notification was sent!"
+msgstr "Notificação por email enviada!"
+
+#: admin/upicrm_api.php:81
+msgid ""
+"You can also add some comment or important information for this lead if you "
+"wish:"
+msgstr ""
+"Se quiser também pode adicionar comentários ou informações importantes a "
+"este lead."
+
+#: admin/upicrm_api.php:87
+msgid "Manage all leads"
+msgstr "Gerir todos os leads"
+
+#: admin/upicrm_api.php:99
+msgid "comment saved successfully"
+msgstr "comentário guardado"
+
+#: admin/upicrm_dashboard.php:110 template/dashboard_template.php:34
+msgid "Weeks Ago"
+msgstr "semanas"
+
+#: admin/upicrm_dashboard.php:110 template/dashboard_template.php:34
+msgid "Week Ago"
+msgstr "semana"
+
+#: admin/upicrm_dashboard.php:110 template/dashboard_template.php:34
+msgid "This Week"
+msgstr "Esta semana"
+
+#: admin/upicrm_dashboard.php:211 template/dashboard_template.php:135
+msgid "Hello"
+msgstr "Olá"
+
+#: admin/upicrm_dashboard.php:212 template/dashboard_template.php:136
+msgid "You Have a total of"
+msgstr "Tem um total de"
+
+#: admin/upicrm_dashboard.php:214 template/dashboard_template.php:138
+msgid "You are reporting to:"
+msgstr "Está a reportar a"
+
+#: admin/upicrm_dashboard.php:219 template/dashboard_template.php:143
+msgid "Reporting to you:"
+msgstr "Está a reportar a si"
+
+#: admin/upicrm_dashboard.php:235 template/dashboard_template.php:159
+msgid "Latest New Leads:"
+msgstr "Últimos leads adicionados:"
+
+#: admin/upicrm_dashboard.php:265 template/dashboard_template.php:189
+msgid "Manage Leads"
+msgstr "Gerir leads"
+
+#: admin/upicrm_dashboard.php:266 template/dashboard_template.php:190
+msgid "Export to Excel"
+msgstr "Exportar para Excel"
+
+#: admin/upicrm_dashboard.php:323 template/dashboard_template.php:247
+msgid "Lead Overview"
+msgstr "Visão geral de leads"
+
+#: admin/upicrm_dashboard.php:403 admin/upicrm_dashboard.php:427
+#: template/dashboard_template.php:327 template/dashboard_template.php:351
+msgid "Leads / Status"
+msgstr "Estados"
+
+#: admin/upicrm_dashboard.php:415 admin/upicrm_dashboard.php:456
+#: template/dashboard_template.php:339 template/dashboard_template.php:380
+msgid "Leads / Assigned to"
+msgstr "Atribuídos a"
+
+#: admin/upicrm_dashboard.php:433 admin/upicrm_dashboard.php:462
+#: admin/upicrm_integrations.php:151 template/dashboard_template.php:357
+#: template/dashboard_template.php:386
+msgid "Status"
+msgstr "Estado"
+
+#: admin/upicrm_dashboard.php:434 admin/upicrm_dashboard.php:463
+#: admin/upicrm_dashboard.php:492 admin/upicrm_dashboard.php:520
+#: admin/upicrm_dashboard.php:548 admin/upicrm_dashboard.php:576
+#: template/dashboard_template.php:358 template/dashboard_template.php:387
+#: template/dashboard_template.php:416 template/dashboard_template.php:444
+#: template/dashboard_template.php:472 template/dashboard_template.php:500
+msgid "Number"
+msgstr "Número"
+
+#: admin/upicrm_dashboard.php:485 template/dashboard_template.php:409
+msgid "Leads / Country"
+msgstr "País"
+
+#: admin/upicrm_dashboard.php:491 template/dashboard_template.php:415
+msgid "Country"
+msgstr "País"
+
+#: admin/upicrm_dashboard.php:513 template/dashboard_template.php:437
+msgid "Leads / Product"
+msgstr "Produto"
+
+#: admin/upicrm_dashboard.php:519 template/dashboard_template.php:443
+msgid "Product"
+msgstr "Produto"
+
+#: admin/upicrm_dashboard.php:541 template/dashboard_template.php:465
+msgid "Leads / Received From"
+msgstr "Forma de captação"
+
+#: admin/upicrm_dashboard.php:547 template/dashboard_template.php:471
+msgid "Received From"
+msgstr "Forma de captação"
+
+#: admin/upicrm_dashboard.php:569 template/dashboard_template.php:493
+msgid "Leads / Website"
+msgstr "Website"
+
+#: admin/upicrm_dashboard.php:575 template/dashboard_template.php:499
+msgid "Website"
+msgstr "Site"
+
+#: admin/upicrm_dashboard.php:598 template/dashboard_template.php:522
+msgid "Leads / Contry"
+msgstr "País"
+
+#: admin/upicrm_dashboard.php:609 template/dashboard_template.php:533
+msgid "Latest Leads received:"
+msgstr "Últimos leads recebidos:"
+
+#: admin/upicrm_edit_lead.php:11 admin/upicrm_email_notifications.php:9
+#: admin/upicrm_email_notifications.php:13 admin/upicrm_existing_fields.php:10
+#: admin/upicrm_existing_statuses.php:10 admin/upicrm_integrations.php:18
+#: admin/upicrm_lead_route.php:20 admin/upicrm_settings.php:16
+#: admin/upicrm_settings.php:20 admin/upicrm_webservices.php:13
+#: admin/upicrm_webservices.php:17 admin/upicrm_webservices.php:21
+#: admin/upicrm_wsp.php:19
+msgid "changes saved successfully"
+msgstr "alterações guardadas"
+
+#: admin/upicrm_email_notifications.php:35
+msgid "Send all leads and updates to the following user:"
+msgstr "Enviar todos os leads e actualizações para"
+
+#: admin/upicrm_email_notifications.php:49
+msgid "Leads are by default assigned to:"
+msgstr "Por omissão, os leads são associados a"
+
+#: admin/upicrm_email_notifications.php:64
+msgid "Email format:"
+msgstr "Formato de email"
+
+#: admin/upicrm_email_notifications.php:69
+msgid ""
+"Distribute all leads and updated to additional email address (or multiple "
+"addresses separated by comma (,):"
+msgstr ""
+"Distribuir todos os leads e actualizações a emails adicionais (separe com "
+"vírgulas):"
+
+#: admin/upicrm_email_notifications.php:71
+msgid "Change default \"from\" field for emails sent from"
+msgstr "Mudar o campo \"de\" nos emails enviados"
+
+#: admin/upicrm_email_notifications.php:72
+msgid ""
+"Email will be sent in the following format: &lt;name&gt; no-reply@yourdomain."
+"com"
+msgstr "O email será enviado como: &lt;name&gt; no-reply@oseudominio.com"
+
+#: admin/upicrm_email_notifications.php:85
+msgid "Content:"
+msgstr "Conteúdo"
+
+#: admin/upicrm_email_notifications.php:89
+msgid "Subject:"
+msgstr "Assunto"
+
+#: admin/upicrm_email_notifications.php:92
+msgid "CC:"
+msgstr "CC"
+
+#: admin/upicrm_email_notifications.php:95
+msgid "Variables:"
+msgstr "Variáveis:"
+
+#: admin/upicrm_existing_fields.php:27 admin/upicrm_settings.php:173
+msgid "Add additional fields and datatypes to UpiCRM:"
+msgstr "Adicionar campos e tipos de dados ao UpiCRM"
+
+#: admin/upicrm_existing_fields.php:30
+msgid "Add New field"
+msgstr "Adicionar novo campo"
+
+#: admin/upicrm_existing_statuses.php:72 admin/upicrm_settings.php:190
+msgid "Add additional status to UpiCRM:"
+msgstr "Adicionar novo estado ao UpiCRM:"
+
+#: admin/upicrm_existing_statuses.php:75 admin/upicrm_settings.php:194
+msgid "Add New Status"
+msgstr "Adicionar novo estado"
+
+#: admin/upicrm_googleauth.php:10
+msgid "save"
+msgstr "guardar"
+
+#: admin/upicrm_googleauth.php:35
+#, fuzzy
+msgid "Google App\t:"
+msgstr "Google App\t:"
+
+#: admin/upicrm_googleauth.php:40
+msgid "Client ID:"
+msgstr "ID do cliente:"
+
+#: admin/upicrm_googleauth.php:44
+#, fuzzy
+msgid "Client secret:"
+msgstr "Segredo do cliente:"
+
+#: admin/upicrm_integrations.php:43
+msgid ""
+"UpiCRM can act as an aggregator of leads from multiple / remote web sites."
+"\r\n"
+"This means that a UpiCRM master can receive leads from any other UpiCRM "
+"\"slave\" , as long as the connection (pairing) is performed.\r\n"
+"UpiCRM can work in complete orchestration, receive / send leads from and to "
+"multiple servers at the same time.\r\n"
+"In order to get your required API key, please visit <a href=\"http://www."
+"upicrm.com/apikey\" target=\"_blank\">http://www.upicrm.com/apikey</a> <br />"
+"\r\n"
+"More documentation can be found on: <a href=\"http://www.upicrm.com/docs\" "
+"target=\"_blank\">http://www.upicrm.com/docs</a>"
+msgstr ""
+"O UpiCRM pode servir como agregador de leads de vários sites web/remotos.\n"
+"Isto significa que um UpiCRM master pode receber leads de qualquer outro  "
+"UpiCRM \\\"slave\\\", \n"
+"desde que seja activada a ligação (emparelhamento).\n"
+"O UpiCRM pode trabalhar em sintonia completa, enviar/receber leads de/para "
+"vários servidores ao mesmo tempo.\n"
+"\n"
+"Para obter a necessária chave API, visite <a href=\\\"http://www.upicrm.com/"
+"apikey\\\" target=\\\"_blank\\\"> http://www.upicrm.com/apikey </a> \n"
+"< br />\n"
+"Mais documentação pode ser encontrada em: <a href=\\\"http://www.upicrm.com/"
+"docs\\\" target=\\\"_blank\\\"> http://www.upicrm.com/docs </a>"
+
+#: admin/upicrm_integrations.php:54
+msgid ""
+"Send Leads to Remote UpiCRM MASTER: This UpiCRM is a SLAVE, and is sending "
+"new leads to the below listed and confirmed UpiCRM MASTERS:"
+msgstr ""
+"Enviar leads para o UpiCRM MASTER: Este UpiCRM é um SLAVE e envia novos "
+"leads para o UpiCRM MASTER seguinte"
+
+#: admin/upicrm_integrations.php:55
+msgid "UpiMaster Table"
+msgstr "Tabela do UpiCRM MASTER"
+
+#: admin/upicrm_integrations.php:59
+msgid ""
+"Receive leads from remote UpiCRM SLAVE: this UpiCRM is a MASTER, and is "
+"receiving new leads from the below listed and confirmed UpiCRM SLAVES:"
+msgstr ""
+"Receber leads remotos do UpiCRM SLAVE: este UpiCRM é um MASTER e recebe "
+"leads dos UpiCRM SLAVES seguintes"
+
+#: admin/upicrm_integrations.php:60
+msgid "UpiSlave Table"
+msgstr "Tabela de CRM SLAVES"
+
+#: admin/upicrm_integrations.php:79
+msgid "Add"
+msgstr "Adicionar"
+
+#: admin/upicrm_integrations.php:84 admin/upicrm_wsp.php:66
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin/upicrm_integrations.php:95 admin/upicrm_webservices.php:73
+msgid "URL:"
+msgstr "URL:"
+
+#: admin/upicrm_integrations.php:99 admin/upicrm_webservices.php:129
+msgid "API Key:"
+msgstr "Chave API:"
+
+#: admin/upicrm_integrations.php:145
+msgid "Domain"
+msgstr "Domínio"
+
+#: admin/upicrm_integrations.php:148
+msgid "Secrete shared API key"
+msgstr "Chave secreta de API"
+
+#: admin/upicrm_integrations.php:154 admin/upicrm_lead_route.php:253
+#: admin/upicrm_wsp.php:116 classes/upicrm_ui_builder.php:18
+msgid "Actions"
+msgstr "Acções"
+
+#: admin/upicrm_integrations.php:169
+msgid "verify connection with remote server"
+msgstr "verificar ligação ao servidor remoto"
+
+#: admin/upicrm_integrations.php:212
+msgid "Delete this domain?"
+msgstr "Eliminar este domínio?"
+
+#: admin/upicrm_integrations.php:273
+msgid "Unchecked"
+msgstr "Não seleccionado"
+
+#: admin/upicrm_integrations.php:315 libraries/upicrm_integrations.php:160
+msgid "UpiCRM is not installed / not upgraded on remote server."
+msgstr "O UpiCRM não está instalado/actualizado no servidor remoto"
+
+#: admin/upicrm_lead_route.php:46
+msgid "Add New lead routing rule"
+msgstr "Adicionar nova regra de encaminhamento de leads"
+
+#: admin/upicrm_lead_route.php:47
+msgid ""
+"Here you can define rules and conditions to automatically assign leads to "
+"designated UpiCRM users or change leads status fields. \r\n"
+"For example you can define that If field \"country\" equals \"India\" , then "
+"assign this lead to the regional sales manager of India. \r\n"
+"Another example: if subject contains \"buy free\", then change lead status "
+"to \"Spam\"."
+msgstr ""
+"Aqui pode definir regras e condições para atribuir automaticamente leads a "
+"certos utilizadores do UpiCRM, ou mudanças nos campos de estado.\n"
+"Por exemplo, pode definir que SE o campo \\\"País\\\" é igual a \\\"Índia\\"
+"\", então, esse lead é atribuído ao gestor regional de vendas da Índia. \n"
+"Outro exemplo: se o assunto contém \\\"compra grátis\\\", então muda o "
+"estado para \\\"Spam\\\"."
+
+#: admin/upicrm_lead_route.php:52
+msgid "Important notes:"
+msgstr "Notas importantes:"
+
+#: admin/upicrm_lead_route.php:54
+msgid ""
+"You can add as many rules as you'd like, we'll process them in the order "
+"they're written, while the last rule will always override the previous rules "
+"– so it's highly recommended to plan your logic before you actually define "
+"the rules."
+msgstr ""
+"Pode colocar tantas regras quantas quiser, o UpiCRM processa-as pela ordem "
+"em que são criadas, com a última a sobrepor-se às anteriores. Por isso,é "
+"importante planear a lógica antes de ir criando regras."
+
+#: admin/upicrm_lead_route.php:55
+msgid ""
+"You can add multiple values separated by commas (,). \r\n"
+"Example: if subject contains buy, free, shop, cheap, new, deals – then "
+"change lead status to \"Spam\""
+msgstr ""
+"Pode adicionar múltiplos valores, basta separá-los por vírgulas.\n"
+"Exemplo: se o assunto contém compras, grátis, barato… o estado do lead será "
+"alterado para \"spam\""
+
+#: admin/upicrm_lead_route.php:57
+msgid ""
+"Value are by definition NOT case sensitive, meaning – if you write \"india"
+"\", as content, the rule will be processed also in cases where field "
+"contains value \"INDIA\"."
+msgstr ""
+"As variáveis não se diferenciam em maiúsculas ou mínusculas. Então: Compras, "
+"compras, CoMpRas, compraS... é tudo a mesma coisa"
+
+#: admin/upicrm_lead_route.php:58
+msgid ""
+"You can always delete or edit rules in the future… so start slow and add "
+"more rules as you go."
+msgstr ""
+"Pode criar regras quando quiser. Comece devagar e vá criando conforme a sua "
+"necessidade"
+
+#: admin/upicrm_lead_route.php:59
+msgid ""
+"Checkboxes on forms: if you're using check box fields on you forms, we "
+"recommend using \"contains\" operator only."
+msgstr ""
+"Se usa caixas de selecção nos formulários, é recomendado que use apenas o "
+"operador \"contém\"."
+
+#: admin/upicrm_lead_route.php:70
+msgid "IF"
+msgstr "SE"
+
+#: admin/upicrm_lead_route.php:101
+msgid "Add and option"
+msgstr "Adicionar opção"
+
+#: admin/upicrm_lead_route.php:104
+msgid "AND"
+msgstr "E"
+
+#: admin/upicrm_lead_route.php:136
+msgid "THEN"
+msgstr "ENTÃO"
+
+#: admin/upicrm_lead_route.php:140 admin/upicrm_lead_route.php:241
+msgid "Assign lead to"
+msgstr "Atribuir lead a"
+
+#: admin/upicrm_lead_route.php:150
+msgid ""
+"Note: if you choose more than one person, every lead will be distributed to "
+"each assignee in turn, one after the other, in a “Round-robin” que. \r\n"
+"A lead will NOT be distributed to more than one person simultaneously!"
+msgstr ""
+"Atenção: se escolher mais de uma pessoa, cada lead será atribuído à vez a "
+"cada utilizador.\n"
+"Um lead NÃO será atribuído a mais do que uma pessoa em simultâneo."
+
+#: admin/upicrm_lead_route.php:154 admin/upicrm_lead_route.php:244
+msgid "Change lead status to"
+msgstr "Mudar estado do lead para"
+
+#: admin/upicrm_lead_route.php:167
+msgid "Change"
+msgstr "Mudar"
+
+#: admin/upicrm_lead_route.php:179
+msgid "value to:"
+msgstr "variável para"
+
+#: admin/upicrm_lead_route.php:184
+msgid "Webservice off"
+msgstr "Webservice desactivado"
+
+#: admin/upicrm_lead_route.php:185
+msgid "Webservice on"
+msgstr "Webservice activado"
+
+#: admin/upicrm_lead_route.php:189
+msgid "Update Rule"
+msgstr "Actualizar regra"
+
+#: admin/upicrm_lead_route.php:209
+msgid "Lead Routing Table"
+msgstr "Tabela de encaminhamento de lead"
+
+#: admin/upicrm_lead_route.php:232
+msgid "Field"
+msgstr "Campo"
+
+#: admin/upicrm_lead_route.php:235
+msgid "Operator"
+msgstr "Operador"
+
+#: admin/upicrm_lead_route.php:238
+msgid "Value"
+msgstr "Variável"
+
+#: admin/upicrm_lead_route.php:247
+msgid "Add field value"
+msgstr "Adicionar campo de variável"
+
+#: admin/upicrm_lead_route.php:250
+msgid "Webservice status"
+msgstr "Estado do webservice"
+
+#: admin/upicrm_settings.php:114
+msgid "In this screen you can perform the following actions:"
+msgstr "Neste ecrã pode fazer as seguintes acções"
+
+#: admin/upicrm_settings.php:115
+msgid ""
+"1. Map all your site's forms and fields into a single, central and "
+"manageable data structure. Please use the forms fields mapping wizard below "
+"in order to map all you site's forms into UpiCRM leads table."
+msgstr ""
+"1. Mapear todas os formulários e campos do site numa estrutura de dados "
+"única e central, que pode gerir com o assistente de mapeamento do UpiCRM"
+
+#: admin/upicrm_settings.php:116
+msgid ""
+"2. Add / Edit additional data fields for UpiCRM database: UpiCRM default set "
+"of fields can be easily extended to support your unique and specific needs. "
+"Just add ANY fields you may need – and map your forms into the new field/s "
+"you have defined. "
+msgstr ""
+"2. Adicionar/editar campos de dados adicionais para a base de dados do "
+"UpiCRM: o UpiCRM tem um conjunto de campos por omissão, que pode ser "
+"facilmente estendido para suportar as suas necessidades específicas. Basta "
+"adicionar todos os campos que pode precisar - e mapear os seus formulários "
+"para o novo campo que definiu."
+
+#: admin/upicrm_settings.php:117
+msgid ""
+"3. Add / edit additional status fields : UpiCRM default set of status fields "
+"can be easily extended. Just add ANY status  you may need – and it will "
+"become available for you to manage."
+msgstr ""
+"3. Adicionar/editar campos de estado adicionais: o UpiCRM tem um conjunto de "
+"campos de estado por omissão, que pode ser facilmente estendido para "
+"suportar as suas necessidades. Basta adicionar qualquer estado que possa "
+"precisar, ficarádisponível para que possa utilizá-lo"
+
+#: admin/upicrm_settings.php:122 admin/upicrm_settings.php:128
+msgid "are you sure?"
+msgstr "tem a certeza?"
+
+#: admin/upicrm_settings.php:126
+msgid ""
+"this option will reset all configuration, but will not delete data from "
+"UpiCRM."
+msgstr "esta opção só repõe as configurações, não vai eliminar dados do UpiCRM"
+
+#: admin/upicrm_settings.php:130
+msgid "Delete All data"
+msgstr "Eliminar todos os dados"
+
+#: admin/upicrm_settings.php:132
+msgid ""
+"this option will delete all data from UpiCRM, but will not delete the "
+"configuration."
+msgstr ""
+"esta opção eliminará todos os dados do CRM mas mantém as suas configurações"
+
+#: admin/upicrm_settings.php:135
+msgid "Map existing forms fields to UpiCRM structured database field:"
+msgstr ""
+"Mapear campos dos formulários existentes para a estrutura de dados do UpiCRM"
+
+#: admin/upicrm_settings.php:143 classes/upicrm_ui_builder.php:19
+msgid "Form Name"
+msgstr "Nome do formulário"
+
+#: admin/upicrm_settings.php:144
+msgid "Fields"
+msgstr "Campos"
+
+#: admin/upicrm_settings.php:177
+msgid "Add New Field"
+msgstr "Adicionar novo campo"
+
+#: admin/upicrm_settings.php:218
+msgid "Remove all UpiCRM settings"
+msgstr "Remover todas as configurações do UpiCRM"
+
+#: admin/upicrm_settings.php:219
+msgid ""
+"choosing this option will <strong>permanently delete all settings</strong> "
+"stored in the database by UpiCRM.Unless you have backed up your database, "
+"this action is irreversible and once executed,  can not be undone."
+msgstr ""
+"escolher esta opção irá <strong>excluir permanentemente todas as "
+"configurações</strong> armazenadas na base de dados pelo UpiCRM. A menos que "
+"tenha uma cópia de segurança da sua base de dados, esta acção é irreversível "
+"e, uma vez executada, não pode ser desfeita."
+
+#: admin/upicrm_settings.php:219
+msgid "Delete all my UPISettings"
+msgstr "Eliminar todas as configurações do UpiCRM"
+
+#: admin/upicrm_webservices.php:55 classes/upicrm_ui_builder.php:101
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/upicrm_webservices.php:57
+#, fuzzy
+msgid "Outbound Web Service:"
+msgstr "Outbound Web Service:"
+
+#: admin/upicrm_webservices.php:57
+msgid "transmit leads to a remote web service, using POST method."
+msgstr "Transmita os leads a um serviço web remoto, usando o método POST."
+
+#: admin/upicrm_webservices.php:58
+msgid ""
+"UpiCRM can transmit leads to remote source using HTTP Post method, as shown "
+"below:"
+msgstr ""
+"O UpiCRM pode transmitir leads a um serviço remoto, usando o método HTTP "
+"Post, como mostrado abaixo:"
+
+#: admin/upicrm_webservices.php:59
+msgid ""
+"URL: http://www.remoteserver.com/programname.php?username=user&password=pwd"
+msgstr ""
+"URL: http://www.remoteserver.com/programname.php?username=user&password=pwd"
+
+#: admin/upicrm_webservices.php:60 admin/upicrm_webservices.php:77
+msgid "Status:"
+msgstr "Estado"
+
+#: admin/upicrm_webservices.php:62
+msgid ""
+"manual : when choosing “Manually transmit lead to a remote web service” form "
+"the leads management table."
+msgstr ""
+"manual: ao escolher \"Transmitir manualmente o lead a um serviço web remoto"
+"\" na tabela de gestão de leads."
+
+#: admin/upicrm_webservices.php:63
+msgid ""
+"Always on : all received leads are immediately transmitted to a remote "
+"server."
+msgstr ""
+"sempre activo: todos leads recebidos são imediatamente transmitidos a um "
+"servidor remoto."
+
+#: admin/upicrm_webservices.php:65
+#, fuzzy
+msgid ""
+"On by Auto lead: allows you to set rule for transmitting leads to a remote "
+"service by using the “Auto lead management” option on the UpiCRM menu."
+msgstr ""
+"automático: permite que defina a regra para transmissão de leads a um "
+"serviço remoto, usando a opção \"Autogestão de leads\" no menu do UpiCRM."
+
+#: admin/upicrm_webservices.php:83
+msgid "encoding:"
+msgstr "codificação"
+
+#: admin/upicrm_webservices.php:89
+msgid "Save Log:"
+msgstr "Guardar registo:"
+
+#: admin/upicrm_webservices.php:91
+msgid "Not Active"
+msgstr "Inactivo"
+
+#: admin/upicrm_webservices.php:92
+#, fuzzy
+msgid "Active"
+msgstr "Activos"
+
+#: admin/upicrm_webservices.php:98
+msgid "Method:"
+msgstr "Método"
+
+#: admin/upicrm_webservices.php:105
+msgid "Map Upi Fields to web service parameters"
+msgstr "Mapear campos Upi aos parâmetros do serviço web"
+
+#: admin/upicrm_webservices.php:110
+msgid "Show log"
+msgstr "Mostrar registo"
+
+#: admin/upicrm_webservices.php:121
+#, fuzzy
+msgid "Inbound Web Service:"
+msgstr "Inbound Web Service:"
+
+#: admin/upicrm_webservices.php:121
+msgid "Accept leads from remote sources using POST requests"
+msgstr "Aceitar leads de fontes remotas usando pedidos POST"
+
+#: admin/upicrm_webservices.php:136
+msgid ""
+"UpiCRM inbound web service allows you to receive leads from external sources "
+"using simple HTTP POST request."
+msgstr ""
+"UpiCRM inbound web service permite que receba leads de fontes externas "
+"usando simples pedidos HTTP POST."
+
+#: admin/upicrm_webservices.php:137
+msgid ""
+"In order to implement this capability, you should enable the inbound web "
+"service and set an API key in the “Web Services” section in the UpiCRM menu."
+msgstr ""
+"Para implementar este recurso, tem de activar o serviço web de entrada e "
+"definir uma chave de API na secção \"Web Services\" no menu do UpiCRM."
+
+#: admin/upicrm_webservices.php:138
+msgid ""
+"The POST request should be sent to your WordPress URL (i.e.: www.yourwebsite."
+"com/) with the following query string parameters:"
+msgstr ""
+"O pedido POST deve ser enviado para o seu URL WordPress (por exemplo: www."
+"yourwebsite.com/) com os seguintes parâmetros da string de consulta:"
+
+#: admin/upicrm_webservices.php:141
+msgid "upicrm_integration_action=save_lead"
+msgstr "upicrm_integration_action=save_lead"
+
+#: admin/upicrm_webservices.php:142
+msgid "upicrm_integration_key=your_selected_key"
+msgstr "upicrm_integration_key=your_selected_key"
+
+#: admin/upicrm_webservices.php:144
+msgid ""
+"The POST data should contain a single value called lead_content_arr, "
+"presumed to be a JSON object that contains the lead information, as shown "
+"below:"
+msgstr ""
+"Os dados do POST devem conter um único valor, chamado lead_content_arr, que "
+"se presume que seja um objecto JSON que contém as informações do lead, assim:"
+
+#: admin/upicrm_wsp.php:50
+msgid "Upi Field Name"
+msgstr "Nome do campo Upi"
+
+#: admin/upicrm_wsp.php:64
+msgid "Web Service Parameter Name"
+msgstr "Nome do parâmetro do serviço web"
+
+#: admin/upicrm_wsp.php:87
+msgid "Web Service Options Table"
+msgstr "Tabela de opções webservice"
+
+#: admin/upicrm_wsp.php:110
+msgid "Upi Field name"
+msgstr "Nome do campo Upi"
+
+#: admin/upicrm_wsp.php:113
+msgid "Web service parameter name"
+msgstr "Nome do parâmetro do serviço web"
+
+#: admin/upicrm_wsp.php:166
+msgid "Remove this Options?"
+msgstr "Remover estas opções?"
+
+#: classes/upicrm_leads_route.php:18
+msgid "contains"
+msgstr "contém"
+
+#: classes/upicrm_leads_route.php:20
+msgid "equals"
+msgstr "igual"
+
+#: classes/upicrm_leads_route.php:21
+msgid "begins with"
+msgstr "começa por"
+
+#: classes/upicrm_leads_route.php:22
+msgid "smaller than"
+msgstr "menor que"
+
+#: classes/upicrm_leads_route.php:23
+msgid "bigger than"
+msgstr "maior que"
+
+#: classes/upicrm_mails.php:67
+msgid "You can assign this lead to the following UpiCRM users:"
+msgstr "Pode atribuir este lead aos seguintes utilizadores do UpiCRM"
+
+#: classes/upicrm_mails.php:106
+msgid "You can change the status of this lead to the one of the following:"
+msgstr "Pode mudar o estado desde lead para:"
+
+#: classes/upicrm_ui_builder.php:11
+msgid "ID"
+msgstr "ID"
+
+#: classes/upicrm_ui_builder.php:12
+msgid "Time"
+msgstr "Hora"
+
+#: classes/upicrm_ui_builder.php:13
+msgid "User Agent"
+msgstr "Agente do utilizador"
+
+#: classes/upicrm_ui_builder.php:14
+msgid "Referer"
+msgstr "Referência"
+
+#: classes/upicrm_ui_builder.php:15
+msgid "IP"
+msgstr "IP"
+
+#: classes/upicrm_ui_builder.php:16
+msgid "Web service Transmission Log"
+msgstr "Registo de transmissão do serviço web"
+
+#: classes/upicrm_ui_builder.php:20
+msgid "Assigned To"
+msgstr "Atribuído a"
+
+#: classes/upicrm_ui_builder.php:21
+msgid "Lead Status"
+msgstr "Estado do lead"
+
+#: classes/upicrm_ui_builder.php:22
+msgid "Lead Management Comment"
+msgstr "Comentário do gestor do lead"
+
+#: classes/upicrm_ui_builder.php:31
+msgid "Lead ID on remote server"
+msgstr "ID do lead no servidor remoto"
+
+#: classes/upicrm_ui_builder.php:32
+msgid "Transmission Status"
+msgstr "Estado da transmissão "
+
+#: classes/upicrm_ui_builder.php:33
+msgid "Remote server domain"
+msgstr "Domínio do servidor remoto"
+
+#: classes/upicrm_ui_builder.php:96
+msgid "Send lead again to UpiCRM master"
+msgstr "Enviar lead novamente para o UpiCRM MASTER"
+
+#: classes/upicrm_ui_builder.php:99
+msgid "Manually transmit lead to a remote web service"
+msgstr "Transmitir manualmente os leads a um serviço web remoto"
+
+#: classes/upicrm_ui_builder.php:100
+msgid "Request status update from lead owner"
+msgstr "Solicitar actualização de estado ao responsável do lead"
+
+#: classes/upicrm_users.php:46
+msgid "UpiCRM options"
+msgstr "Opções do UpiCRM"
+
+#: classes/upicrm_users.php:53
+msgid "Not a UpiCRM User"
+msgstr "Não é um utilizador do UpiCRM"
+
+#: classes/upicrm_users.php:275
+msgid "Admin"
+msgstr "Administrador"
+
+#: libraries/upicrm_integrations.php:45 libraries/upicrm_integrations.php:213
+msgid "Connected + Last checked"
+msgstr "Ligado + Última visualização"
+
+#: libraries/upicrm_integrations.php:48
+msgid "Remote UpiCRM installed: V"
+msgstr "UpiCRM remoto instalado: V"
+
+#: libraries/upicrm_integrations.php:51 libraries/upicrm_integrations.php:119
+msgid "Incorrect API Key"
+msgstr "Chave API incorrecta"
+
+#: libraries/upicrm_integrations.php:67 libraries/upicrm_integrations.php:169
+msgid "http 404 – can't find resource"
+msgstr "http 404 - recurso não localizado"
+
+#: libraries/upicrm_webservice.php:6
+msgid "Manual"
+msgstr "Manual"
+
+#: libraries/upicrm_webservice.php:7
+msgid "Always On"
+msgstr "Sempre activo"
+
+#: libraries/upicrm_webservice.php:8
+msgid "On By Auto Lead"
+msgstr "Activado para leads automatizados"
+
+#~ msgid ""
+#~ "Import data into UpiCRM :<br />\n"
+#~ "You can easily upload / import data into UpiCRM. In order to upload data "
+#~ "into UpiCRM please do the following:"
+#~ msgstr ""
+#~ "Importar dados para o UpiCRM:<br />\n"
+#~ "Pode carregar/importar dados para o UpiCRM de forma simples. Para fazer "
+#~ "isso siga os passos:"
+
+#~ msgid ""
+#~ "2. Locate the data into the right columns inside the excel file. Usually "
+#~ "this should be an easy     \n"
+#~ "    operation using select / copy on the \"other\" file, and then \"paste"
+#~ "\" into the UpiCRM Excel   \n"
+#~ "    file."
+#~ msgstr ""
+#~ "2. Coloque as informações nas colunas correspondentes no ficheiro "
+#~ "Excel. \n"
+#~ "    (uma dica: Ctrl+C / Ctrl+V)"
+
+#~ msgid ""
+#~ "3. Do NOT change the structure / format of the excel file, just copy the "
+#~ "text data into the right \n"
+#~ "    columns, save and exit the file."
+#~ msgstr ""
+#~ "3. Atenção: NÃO altere a estrutura ou formato da folha de cálculo, copie "
+#~ "e cole as informações, guarde o ficheiro e feche-o."
+
+#~ msgid ""
+#~ "5. Note: any automatic lead management rules you may have – will be "
+#~ "processed during the  \n"
+#~ "    import process. "
+#~ msgstr ""
+#~ "5. Lembre-se: quaisquer regras automáticas de gestão de leads serão "
+#~ "processadas durante \n"
+#~ "    a importação do ficheiro. "
+
+#~ msgid ""
+#~ "UpiCRM User hierarchy: <br />\n"
+#~ "UpiCRM is designed to work in a multi-user / global organization "
+#~ "environment, with up to 5 tiers of users, per your choice / definition.\n"
+#~ "<br />\n"
+#~ "For Example: you can define a single \"Global Sales Manager\" , three "
+#~ "\"Regional Sales Managers\", under each of them - local \"Sales "
+#~ "representatives\", that are working with \"External distributors\".\n"
+#~ "<br />\n"
+#~ "Per every user you can define:<br />\n"
+#~ "1.      Permission to re-assign leads back to the manager in charge.<br /"
+#~ ">\n"
+#~ "2.      Will the manager receive status updates per every status changes "
+#~ "by email. <br />\n"
+#~ "\n"
+#~ "All users, when connected to the UpiCRM dashboard, will see not only the "
+#~ "leads assigned to them, but also the aggregation of leads assigned to the "
+#~ "users that are reporting to them.\n"
+#~ "<br /><br />\n"
+#~ "In order add users to UpiCRM: <br />"
+#~ msgstr ""
+#~ "Hierarquia de utilizadores no UpiCRM: <br />\n"
+#~ "O UpiCRM está projectado para trabalhar num ambiente de organização multi-"
+#~ "utilizador/global, com até 5 níveis de utilizador, escolhidos/definidos "
+#~ "por si.\n"
+#~ "<br />\n"
+#~ "Por exemplo: pode definir um único \"Gestor de Vendas Global\", três "
+#~ "\"Gestores Regionais de Vendas\" e, em cada um destes, \"Representantes "
+#~ "de Vendas\" locais, que trabalham com \"Distribuidores Externos\".\n"
+#~ "<br />\n"
+#~ "Para cada utilizador pode definir: <br />\n"
+#~ "1. A autorização para voltar a atribuir a lead ao gestor responsável. "
+#~ "<br />\n"
+#~ "2. Se o gestor recebe actualizações por email de cada mudança de estado. "
+#~ "<br />\n"
+#~ "\n"
+#~ "Todos os utilizadores, quando ligados ao painel do CRM, irão ver não só "
+#~ "os leads que lhes estão atribuídos, mas também o agregado de leads "
+#~ "atribuídos aos utilizadores que reportam a si.\n"
+#~ "<br /> <br />\n"
+#~ "Para adicionar utilizadores ao CRM: <br />"
+
+#~ msgid "Add UserUpdate User"
+#~ msgstr "Adicionar utilizadorActualizar utilizador"
+
+#~ msgid "Add UpiCRM UserUpdate"
+#~ msgstr "Adicionar utilizador UpiCRMActualizar"
+
+#~ msgid ""
+#~ "UpiCRM can act as an aggregator of leads from multiple / remote web "
+#~ "sites.\n"
+#~ "This means that a UpiCRM master can receive leads from any other UpiCRM "
+#~ "\"slave\" , as long as the connection (pairing) is performed.\n"
+#~ "UpiCRM can work in complete orchestration, receive / send leads from and "
+#~ "to multiple servers at the same time.\n"
+#~ "In order to get your required API key, please visit <a href=\"http://www."
+#~ "upicrm.com/apikey\" target=\"_blank\">http://www.upicrm.com/apikey</a> "
+#~ "<br />\n"
+#~ "More documentation can be found on: <a href=\"http://www.upicrm.com/docs"
+#~ "\" target=\"_blank\">http://www.upicrm.com/docs</a>"
+#~ msgstr ""
+#~ "O UpiCRM pode servir como agregador de leads de vários sites web / "
+#~ "remotos.\n"
+#~ "Isto significa que um UpiCRM master pode receber leads de qualquer outro "
+#~ "UpiCRM \"slave\", desde que seja activada a ligação (emparelhamento).\n"
+#~ "O UpiCRM pode trabalhar em sintonia completa, enviar/receber leads de/"
+#~ "para vários servidores ao mesmo tempo.\n"
+#~ "Para obter a necessária chave API, visite <a href=\"http://www.upicrm.com/"
+#~ "apikey\" target=\"_blank\"> http://www.upicrm.com/apikey </a> < br />\n"
+#~ "Mais documentação pode ser encontrada em: <a href=\"http://www.upicrm.com/"
+#~ "docs\" target=\"_blank\"> http://www.upicrm.com/docs </a>"
+
+#~ msgid "checkbox_text"
+#~ msgstr "checkbox_text"
+
+#~ msgid "table_title"
+#~ msgstr "table_title"
+
+#~ msgid "Webservice by post method"
+#~ msgstr "Webservice por método de post"
+
+#~ msgid "Edit options"
+#~ msgstr "Editar opções"
+
+#~ msgid ""
+#~ "Here you can define rules and conditions to automatically assign leads to "
+#~ "designated UpiCRM users or change leads status fields. \n"
+#~ "For example you can define that If field \"country\" equals \"India\" , "
+#~ "then assign this lead to the regional sales manager of India. \n"
+#~ "Another example: if subject contains \"buy free\", then change lead "
+#~ "status to \"Spam\"."
+#~ msgstr ""
+#~ "Aqui pode definir regras e condições para atribuir automaticamente leads "
+#~ "a certos utilizadores do UpiCRM, ou mudanças nos campos de estado.\n"
+#~ "Por exemplo, pode definir que SE o campo \"País\" é igual a \"Índia\", "
+#~ "então, esse lead é atribuído ao gestor regional de vendas da Índia.\n"
+#~ "Outro exemplo: se o assunto contém \"compra grátis\", então muda o estado "
+#~ "para \"Spam\"."
+
+#~ msgid ""
+#~ "You can add multiple values separated by commas (,). \n"
+#~ "Example: if subject contains buy, free, shop, cheap, new, deals – then "
+#~ "change lead status to \"Spam\""
+#~ msgstr ""
+#~ "Pode adicionar múltiplos valores, basta separá-los por vírgulas.\n"
+#~ "Exemplo: se o assunto contém compras, grátis, feira, promoção, então, o "
+#~ "estado do lead será alterado para spam"
+
+#~ msgid "Update RuleSave Rule"
+#~ msgstr "Actualizar regraGuardar regra"
+
+#~ msgid "UpdateSave"
+#~ msgstr "ActualizarGuardar"
+
+#~ msgid "Name in Web Service"
+#~ msgstr "Nome no webservice"
+
+#~ msgid "Send webservice"
+#~ msgstr "Enviar webservice"
+
+#~ msgid "Off"
+#~ msgstr "Inactivo"
+
+#~ msgid "UpiCRM - Universal WordPress CRM Solution"
+#~ msgstr "UpiCRM - Solução Universal de CRM para WordPress"
+
+#~ msgid "http://www.upicrm.com?utm_source=plpage"
+#~ msgstr "http://www.upicrm.com?utm_source=plpage"
+
+#~ msgid ""
+#~ "UpiCRM is a universal WordPress CRM solution can interface and extend the "
+#~ "most popular WordPress contact forms plugins, and provide a complete CRM "
+#~ "solution"
+#~ msgstr ""
+#~ "O UpiCRM é uma solução universal de CRM para WordPress, que pode "
+#~ "interligar-se e ampliar as funções dos mais populares plugins de "
+#~ "formulários, oferecendo uma completa gestão de leads"
+
+#~ msgid "http://www.upicrm.com"
+#~ msgstr "http://www.upicrm.com"
+
+#~ msgid "2.1.2.0"
+#~ msgstr "2.1.2.0"
